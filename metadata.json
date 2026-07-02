@@ -1,0 +1,6 @@
+{
+  "name": "Onyx Fitness",
+  "description": "Forge Your Strength. A premium, high-energy, animated professional gym website with class schedules, training programs, pricing, and free trial booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
